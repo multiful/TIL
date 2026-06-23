@@ -1,12 +1,12 @@
 # Today I Learned
 
 
-## 🔍 Keyword Tags
+## Keyword Tags
 
 **AI & LLM:** `#RAG` `#VectorDB` `#LangChain` `#LLMOps` `#Prompt`
 
 
-### 🤖 AI-and-LLM-Data
+### AI-and-LLM-Data
 > AI 모델 활용 및 데이터 파이프라인 관련 학습 기록
 
 | Date | Title | Tags |
