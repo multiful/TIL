@@ -1,5 +1,6 @@
 # Today I Learned
-
+데이터 분석 및 LLM 프로젝트 회고 및 로그 정리 입니다.
+----
 
 ## Keyword Tags
 
@@ -13,6 +14,7 @@
 
 **RAG:**
 
+---
 
 ### LLM
 * [프롬프트 엔지니어링: 페르소나 및 컨텍스트 주입 공식](./LLM/01_Prompt_Engineering.md)
