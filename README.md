@@ -26,9 +26,13 @@
 
 
 ### Data
-* [Pandas 데이터프레임 결측치(NaN) 처리하는 팁](./Data/01_Pandas_NaN.md)
-* [자주 쓰는 핵심 SQL 쿼리 및 성능 최적화 패턴](./Data/02_SQL_Optimization.md)
-* [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md)
+> 데이터 분석 파이프라인 및 Python & SQL
+
+| Date | Title | Tags |
+| :--- | :--- | :--- |
+| 2026-06-23 | [Pandas 데이터프레임 결측치(NaN) 처리하는 팁](./Data/01_Pandas_NaN.md) | `#RAG` `#LLMOps` |
+| 2026-06-24 | [자주 쓰는 핵심 SQL 쿼리 및 성능 최적화 패턴](./Data/02_SQL_Optimization.md) | `#VectorDB` |
+| 2026-06-25 | [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md) | `#VectorDB` |
 
 ### AI & ML
 * [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md)
