@@ -21,8 +21,8 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md) | `#RAG` `#LLMOps` |
-| 2026-06-24 | [과적합(Overfitting)을 방지하는 데이터 전처리 기법](./AI_ML/02_Overfitting.md) | `#VectorDB` |
+| 2026-06-23 | [인공지능의 역사 및 핵심 내용.md](./AI_ML/01_인공지능의_역사_및_핵심_내용.md) | `#CNN` `#MLP` `#PyTorch` |
+| 2026-06-23 | [Natural-language Programming.md](./AI_ML/02_Natural-language_Programming.md) | `#PyTorch` |
 | 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
 
 
