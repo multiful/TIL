@@ -3,7 +3,8 @@
 
 ## Keyword Tags
 
-**AI & LLM:** `#RAG` `#VectorDB` `#LangChain` `#LLMOps` `#Prompt`
+**LLM:** `#LangChain` `#LLMOps` `#Prompt`
+**Data:** `#Preprocessing` `#Pipeline` `#Pandas` `#Numpy`
 
 
 ### LLM
