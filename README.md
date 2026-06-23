@@ -11,5 +11,5 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [LLM과 RAG의 기본 개념 이해하기](./LLM/01_LLM_RAG_Basic.md) | `#RAG` `#LLMOps` |
+| 2026-06-23 | [LLM이란?](./LLM/01_LLM_Basic.md) | `#RAG` `#LLMOps` |
 | 2026-06-24 | [Vector DB란 무엇인가? (Milvus 기초)](./LLM/02_VectorDB_Basic.md) | `#VectorDB` |
