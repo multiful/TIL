@@ -16,7 +16,17 @@
 
 ---
 
-### AI & ML
+## Memoirs
+
+### 회고록
+| Date | Title | Tags |
+| :--- | :--- | :--- |
+| 2026-06-23 | [인공지능의 역사 및 핵심 내용.md](./AI_ML/01_인공지능의_역사_및_핵심_내용.md) | `#CNN` `#MLP` `#PyTorch` |
+| 2026-06-23 | [Natural-language Programming.md](./AI_ML/02_Natural-language_Programming.md) | `#PyTorch` |
+| 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
+
+
+### AI_ML
 > 데이터 분석 파이프라인 및 Python & SQL
 
 | Date | Title | Tags |
