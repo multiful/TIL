@@ -21,8 +21,8 @@
 ### 회고록
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [인공지능의 역사 및 핵심 내용.md](./AI_ML/01_인공지능의%20역사%20및%20핵심%20내용.md) | `#CNN` `#MLP` `#PyTorch` |
-| 2026-06-23 | [Natural-language Programming.md](./AI_ML/02_Natural-language%20Programming.md) | `#PyTorch` |
+| 2026-06-23 | [2026-06-23 데일리 로그 & 회고](./Memoirs/2026-06-23%20데일리%20로그%20&%20회고.md) | `#CNN` `#MLP` `#PyTorch` |
+| 2026-06-24 | [Natural-language Programming.md](./AI_ML/02_Natural-language%20Programming.md) | `#PyTorch` |
 | 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
 
 
