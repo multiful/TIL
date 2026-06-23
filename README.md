@@ -17,9 +17,6 @@
 ---
 
 ### LLM
-* [프롬프트 엔지니어링: 페르소나 및 컨텍스트 주입 공식](./LLM/01_Prompt_Engineering.md)
-* [Claude API 연동 및 간단한 문서 요약 프로그램 구현](./LLM/02_Claude_API.md)
-* [Few-shot 프로팅을 활용한 LLM 답변 제어 기법](./LLM/03_Few_shot.md)
 > AI 모델 활용 및 데이터 파이프라인 관련 학습 기록
 
 | Date | Title | Tags |
