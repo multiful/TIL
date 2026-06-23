@@ -4,25 +4,26 @@
 
 ## Keyword Tags
 
-**LLM:** `#LangChain` `#LLMOps` `#Prompt`
+**AI & ML:** `#CNN` `#RNN` `#MLP` `#PyTorch` `#ScikitLearn`
 
-**Data:** `#Preprocessing` `#Pipeline` `#Pandas` `#Numpy`
+**Data:** `#Preprocessing` `#Pipeline` `#Pandas` `#Numpy` `#EDA`
 
-**AI & ML:**
+**LLM:** `#LangChain` `#LLMOps` `#Prompt` `#FineTuning`
 
-**NLP:**
+**NLP:** `#NLP` `#Embedding` `#Transformer` `#Tokenization`
 
-**RAG:**
+**RAG:** `#Retrieval` `#VectorSearch` `#LangChain` `#Evaluation`
 
 ---
 
-### LLM
-> AI 모델 활용 및 데이터 파이프라인 관련 학습 기록
+### AI & ML
+> 데이터 분석 파이프라인 및 Python & SQL
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [LLM이란?](./LLM/01_LLM_Basic.md) | `#RAG` `#LLMOps` |
-| 2026-06-24 | [Vector DB란 무엇인가? (Milvus 기초)](./LLM/02_VectorDB_Basic.md) | `#VectorDB` |
+| 2026-06-23 | [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md) | `#RAG` `#LLMOps` |
+| 2026-06-24 | [과적합(Overfitting)을 방지하는 데이터 전처리 기법](./AI_ML/02_Overfitting.md) | `#VectorDB` |
+| 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
 
 
 ### Data
@@ -34,14 +35,15 @@
 | 2026-06-24 | [자주 쓰는 핵심 SQL 쿼리 및 성능 최적화 패턴](./Data/02_SQL_Optimization.md) | `#VectorDB` |
 | 2026-06-25 | [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md) | `#VectorDB` |
 
-### AI & ML
-> 데이터 분석 파이프라인 및 Python & SQL
+
+### LLM
+> AI 모델 활용 및 데이터 파이프라인 관련 학습 기록
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md) | `#RAG` `#LLMOps` |
-| 2026-06-24 | [과적합(Overfitting)을 방지하는 데이터 전처리 기법](./AI_ML/02_Overfitting.md) | `#VectorDB` |
-| 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
+| 2026-06-23 | [LLM이란?](./LLM/01_LLM_Basic.md) | `#RAG` `#LLMOps` |
+| 2026-06-24 | [Vector DB란 무엇인가? (Milvus 기초)](./LLM/02_VectorDB_Basic.md) | `#VectorDB` |
+
 
 ### NLP
 > 자연어 처리, Transformer, BERT 등
