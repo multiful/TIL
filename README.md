@@ -9,6 +9,10 @@
 
 **AI & ML:**
 
+**NLP:**
+
+**RAG:**
+
 
 ### LLM
 * [프롬프트 엔지니어링: 페르소나 및 컨텍스트 주입 공식](./LLM/01_Prompt_Engineering.md)
