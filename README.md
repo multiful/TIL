@@ -35,9 +35,13 @@
 | 2026-06-25 | [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md) | `#VectorDB` |
 
 ### AI & ML
-* [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md)
-* [과적합(Overfitting)을 방지하는 데이터 전처리 기법](./AI_ML/02_Overfitting.md)
-* [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md)
+> 데이터 분석 파이프라인 및 Python & SQL
+
+| Date | Title | Tags |
+| :--- | :--- | :--- |
+| 2026-06-23 | [전통 머신러닝의 분류(Classification)와 회귀(Regression) 개념 정리](./AI_ML/01_ML_Basic.md) | `#RAG` `#LLMOps` |
+| 2026-06-24 | [과적합(Overfitting)을 방지하는 데이터 전처리 기법](./AI_ML/02_Overfitting.md) | `#VectorDB` |
+| 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
 
 ### NLP
 * [KoNLPy를 이용한 한국어 텍스트 토큰화(Tokenization) 실습](./NLP/01_KoNLPy_Basic.md)
