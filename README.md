@@ -62,7 +62,7 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [KoNLPy를 이용한 한국어 텍스트 토큰화(Tokenization) 실습](./NLP/01_KoNLPy_Basic.md) | `#RAG` `#LLMOps` |
+| 2026-06-23 | [NLP란?](./NLP/01_NLP.md.md) | `#RAG` `#LLMOps` |
 | 2026-06-24 | [텍스트를 숫자로 바꾸는 워드 임베딩(Word Embedding)의 원리](./NLP/02_Embedding_Concept.md) | `#VectorDB` |
 | 2026-06-25 | [Transformer와 BERT 아키텍처 핵심 요약](./NLP/03_Transformer_BERT.md) | `#VectorDB` |
 
