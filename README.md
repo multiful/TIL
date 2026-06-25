@@ -34,9 +34,9 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [인공지능의 역사 및 핵심 내용.md](./AI_ML/01_인공지능의%20역사%20및%20핵심%20내용.md) | `#CNN` `#MLP` `#PyTorch` |
-| 2026-06-23 | [Natural-language Programming.md](./AI_ML/02_Natural-language%20Programming.md) | `#PyTorch` |
-| 2026-06-24 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
+| 2026-06-23 | [인공지능의 역사 및 핵심 내용](./AI_ML/01_인공지능의%20역사%20및%20핵심%20내용.md) | `#CNN` `#MLP` `#PyTorch` |
+| 2026-06-23 | [Natural-language Programming](./AI_ML/02_Natural-language%20Programming.md) | `#PyTorch` |
+| 2026-06-24 | [RNN이란?](./AI_ML/03_RNN.md) | `#RNN` `#MLP` |
 
 
 ### Data
@@ -63,7 +63,7 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-25 | [NLP란?](./NLP/01_NLP.md.md) | `#NLP` `#Tokenization` `#Vectorization`|
+| 2026-06-25 | [NLP란?](./NLP/01_NLP.md) | `#NLP` `#Tokenization` `#Vectorization`|
 | 2026-06-2- | [텍스트를 숫자로 바꾸는 워드 임베딩(Word Embedding)의 원리](./NLP/02_Embedding_Concept.md) | `#VectorDB` |
 | 2026-06-2- | [Transformer와 BERT 아키텍처 핵심 요약](./NLP/03_Transformer_BERT.md) | `#VectorDB` |
 
