@@ -36,7 +36,7 @@
 | :--- | :--- | :--- |
 | 2026-06-23 | [인공지능의 역사 및 핵심 내용.md](./AI_ML/01_인공지능의%20역사%20및%20핵심%20내용.md) | `#CNN` `#MLP` `#PyTorch` |
 | 2026-06-23 | [Natural-language Programming.md](./AI_ML/02_Natural-language%20Programming.md) | `#PyTorch` |
-| 2026-06-25 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
+| 2026-06-24 | [유든 지수(Youden's Index)를 활용한 최적의 분류 임계값 설정](./AI_ML/03_Youdens_Index.md) | `#VectorDB` |
 
 
 ### Data
@@ -44,9 +44,9 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [Pandas 데이터프레임 결측치(NaN) 처리하는 팁](./Data/01_Pandas_NaN.md) | `#RAG` `#LLMOps` |
-| 2026-06-24 | [자주 쓰는 핵심 SQL 쿼리 및 성능 최적화 패턴](./Data/02_SQL_Optimization.md) | `#VectorDB` |
-| 2026-06-25 | [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md) | `#VectorDB` |
+| 2026-06-2- | [Pandas 데이터프레임 결측치(NaN) 처리하는 팁](./Data/01_Pandas_NaN.md) | `#RAG` `#LLMOps` |
+| 2026-06-2- | [자주 쓰는 핵심 SQL 쿼리 및 성능 최적화 패턴](./Data/02_SQL_Optimization.md) | `#VectorDB` |
+| 2026-06-2- | [파이썬 Requests 라이브러리로 웹 API 데이터 수집하기](./Data/03_API_Crawling.md) | `#VectorDB` |
 
 
 ### LLM
@@ -63,15 +63,15 @@
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [NLP란?](./NLP/01_NLP.md.md) | `#NLP` `#Tokenization` `#Vectorization`|
-| 2026-06-24 | [텍스트를 숫자로 바꾸는 워드 임베딩(Word Embedding)의 원리](./NLP/02_Embedding_Concept.md) | `#VectorDB` |
-| 2026-06-25 | [Transformer와 BERT 아키텍처 핵심 요약](./NLP/03_Transformer_BERT.md) | `#VectorDB` |
+| 2026-06-25 | [NLP란?](./NLP/01_NLP.md.md) | `#NLP` `#Tokenization` `#Vectorization`|
+| 2026-06-2- | [텍스트를 숫자로 바꾸는 워드 임베딩(Word Embedding)의 원리](./NLP/02_Embedding_Concept.md) | `#VectorDB` |
+| 2026-06-2- | [Transformer와 BERT 아키텍처 핵심 요약](./NLP/03_Transformer_BERT.md) | `#VectorDB` |
 
 ### RAG
 > AdvancedRAG, VectorDB, Chunking, Embedding, Parsing
 
 | Date | Title | Tags |
 | :--- | :--- | :--- |
-| 2026-06-23 | [RAG(검색 증강 생성) 시스템의 기본 파이프라인 구조](./RAG/01_RAG_Pipeline.md) | `#RAG` `#LLMOps` |
-| 2026-06-24 | [오픈소스 Vector DB인 Milvus 로컬 환경 구축 및 인덱싱](./RAG/02_Milvus_Setup.md) | `#VectorDB` |
-| 2026-06-25 | [문서 검색 정확도를 높이기 위한 텍스트 Chunking 전략](./RAG/03_Chunking_Strategy.md) | `#VectorDB` |
+| 2026-06-2- | [RAG(검색 증강 생성) 시스템의 기본 파이프라인 구조](./RAG/01_RAG_Pipeline.md) | `#RAG` `#LLMOps` |
+| 2026-06-2- | [오픈소스 Vector DB인 Milvus 로컬 환경 구축 및 인덱싱](./RAG/02_Milvus_Setup.md) | `#VectorDB` |
+| 2026-06-2- | [문서 검색 정확도를 높이기 위한 텍스트 Chunking 전략](./RAG/03_Chunking_Strategy.md) | `#VectorDB` |
